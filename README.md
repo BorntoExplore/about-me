@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zayar Mg Htay! <br/><a href="https://github.com/BorntoExplore">Cyber Security</a>, <a href="www.linkedin.com/in/zayar-mg-htay">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Zayar Mg Htay! <br/><a href="https://github.com/BorntoExplore">Cyber Security</a>, <a href="www.linkedin.com/in/zayar-mg-htay"></a>,</h1>
 
 
 Here are some ideas to get you started:
